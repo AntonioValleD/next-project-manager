@@ -5,4 +5,5 @@
 body {
     @apply bg-gray-900;
     color: white;
+    padding: 4px;
 }
